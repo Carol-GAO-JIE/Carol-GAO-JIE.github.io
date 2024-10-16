@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 主页 你好main
     link: /
-  - title: 科研项目 Research
+  - title: 科目 subjects
     link: /research.html
   - title: 论文 Publications
     link: /publications.html
